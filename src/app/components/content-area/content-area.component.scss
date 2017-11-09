@@ -1,0 +1,39 @@
+:host {
+    .bold-ed {
+        font-size: 22px;
+        font-weight: 700;
+    }
+}
+
+#ranges {
+    height: 445px;
+    clear: both;
+    position: relative;
+    bottom: 15px;
+}
+
+.datePickerClasses {
+    float: right;
+    .mat-input-wrapper {
+        color: #FFF !important;
+        font-weight: 200 !important;
+    }
+    .mat-form-field-flex {
+        font-size: 25px;
+        color: #FFF;
+        font-weight: 200 !important;
+    }
+    .mat-form-field-placeholder {
+        color: rgba(255, 255, 255, 0.7) !important;
+    }
+}
+
+.mat-form-field {
+    font-size: 25px;
+    color: #FFF;
+    font-weight: 200 !important;
+}
+
+.mat-input-placeholder.mat-form-field-placeholder.mat-form-field-placeholder {
+    color: rgba(255, 255, 255, 0.7) !important;
+}

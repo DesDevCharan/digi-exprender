@@ -1,0 +1,20 @@
+.left-panel-wrapper {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    .title {
+        margin: 25px 0;
+    }
+    .logo {
+        font-weight: 200;
+        font-size: 40px;
+        span {
+            color: rgb(77, 182, 172);
+        }
+    }
+}
+
+.highcharts-title {
+    font-size: 20px !important;
+    font-weight: 200 !important;
+}

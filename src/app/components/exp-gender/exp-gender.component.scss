@@ -1,0 +1,30 @@
+.container-fluid {
+    .row {
+        display: flex;
+        flex-flow: row wrap;
+        height: 100vh;
+    }
+    .left-panel {
+        background-color: #000000;
+        text-align: center;
+        color: white;
+        flex: 1 1 auto;
+        width: 10%;
+        min-width: 255px;
+    }
+    .content-area {
+        flex: 1 0 auto;
+        background: #22272b;
+        padding:40px 40px; 
+    }
+    .mat-form-field{
+        font-size: 25px;
+        color: #FFF;
+        font-weight: 200;
+        float: right !important;
+        .mat-input-placeholder{
+            font-weight: 200;
+            color: #ffffff;
+        }
+    }
+}
