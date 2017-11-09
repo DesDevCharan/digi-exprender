@@ -1,6 +1,12 @@
-# FEExprender
+# Digital Exprender 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+Used the following Technologies and Libraries
+
+Angular 4,
+Material CSS Framework,
+Firebase Realtime database,
+Highcharts.
 
 ## Development server
 
